@@ -1,0 +1,18 @@
+# requirements.txt
+Django==4.2.7
+psycopg2-binary==2.9.7
+django-tenant-schemas==1.10.0
+django-rest-framework==3.14.0
+django-cors-headers==4.3.1
+celery==5.3.4
+redis==5.0.1
+Pillow==10.1.0
+python-decouple==3.8
+django-extensions==3.2.3
+djangorestframework-simplejwt==5.3.0
+django-filter==23.4
+django-storages==1.14.2
+boto3==1.29.7
+reportlab==4.0.7
+weasyprint==60.2
+django-mptt==0.15.0
